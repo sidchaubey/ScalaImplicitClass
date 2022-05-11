@@ -1,4 +1,4 @@
-# ScalaImplicitClass
+# Scala Implicit Class
 
 Quick Reference on how we create and use Implicit class in Scala. Using Implicit Class we can directly utilise function similar to in-build function without the need to download the whole code base and do the correspomding changes in that downloaded code.
 <pre>
